@@ -1,1 +1,1 @@
-Just ignore this is for a minecraft launcher
+Just ignore this it's for a minecraft launcher
