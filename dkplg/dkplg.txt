@@ -1,1 +1,1 @@
-PvpBox-1.0-SNAPSHOT AttackSpeed-1.0
+PvpBox-1.0 AttackSpeed-1.0
