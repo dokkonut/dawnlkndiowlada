@@ -1,1 +1,1 @@
-PvpBox-1.1 AttackSpeed-1.2 CombatLogger-1.0
+PvpBox-1.1 AttackSpeed-1.4 CombatLogger-1.0
